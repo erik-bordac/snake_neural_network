@@ -19,4 +19,4 @@ V súbore app.py vo funkcii define_parameters() treba nastaviť parametre.
 Na spustenie programu spustite súbor app.py
 
 ### Náhlad
-![alt text](https://github.com/bordy1/deep_learning_snake/blob/main/images/snake.gif)
+![alt text](https://github.com/erik-bordac/snake_neural_network/blob/main/images/snake.gif)
